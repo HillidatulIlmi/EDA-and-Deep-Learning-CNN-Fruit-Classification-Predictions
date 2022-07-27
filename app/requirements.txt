@@ -1,0 +1,7 @@
+requests
+streamlit
+typing_extensions
+matplotlib
+numpy
+pillow
+tensorflow-cpu
