@@ -29,3 +29,13 @@ Tried to use an artificial network of image processing that can classify the typ
 - Model Improvement: Able to do Model Improvement with transfer learning
 - Model Inference: Trying out a model that has been created with new data
 - Model deployment using Docker and Streamlit.
+
+## Reference
+- Anggriawan, dan Toti Indrawati. 2013. Peran Komoditi Gambir Terhadap Perekonomian Kabupaten Lima Puluh Kota Provinsi Sumatera Barat. Jurnal Ekonomi. Volume 21. Nomor 2 Juni 2013. Jurusan Ekonomi Pembangunan. Fakultas Ekonomi. Universitas Riau.
+- Asrianti. 2013. Strategi Pengembangan Usaha Pepaya California Pada Mitra Alam Kabupaten Bogor Jawa Barat. Bogor : Fakultas Ekonomi Manajemen, Institut Pertanian Bogor.
+- http://repository.unmuhjember.ac.id/2334/3/3.%20ISI%20BAB%201.pdf
+- https://www.pertanian.go.id/home/?show=news&act=view&id=1838
+- https://www.kaggle.com/code/muhamadrialdy/fruit-classification
+- https://www.kaggle.com/code/ntut109820018/notebookfruit
+- https://www.kaggle.com/code/omodesto/notebookfruit
+
