@@ -26,7 +26,7 @@ URL Dataset : https://www.kaggle.com/datasets/sshikamaru/fruit-recognition
 - Training data filename format: [fruit/vegetable name][id].jpg (e.g. Apple Braeburn100.jpg). Many images are also rotated, to help training.
 - Testing data filename format: [4 digit id].jpg (e.g. 0001.jpg)
 
-## CConvolutional Neural Network (CNN)
+## Convolutional Neural Network (CNN)
 ![1_XbuW8WuRrAY5pC4t-9DZAQ](https://user-images.githubusercontent.com/105533908/181879042-195c3dd0-99e2-4556-b5b3-09162e7f113b.jpeg)
 
 In deep learning, a convolutional neural network (CNN, or ConvNet) is a class of artificial neural network (ANN), most commonly applied to analyze visual imagery. CNNs are also known as Shift Invariant or Space Invariant Artificial Neural Networks (SIANN), based on the shared-weight architecture of the convolution kernels or filters that slide along input features and provide translation-equivariant responses known as feature maps. Counter-intuitively, most convolutional neural networks are not invariant to translation, due to the downsampling operation they apply to the input. They have applications in image and video recognition, recommender systems, image classification, image segmentation, medical image analysis, natural language processing, brain–computer interfaces and financial time series.
